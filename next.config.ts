@@ -3,8 +3,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   /* config options here */
   output: 'export',
-  basePath: '/next-report-appp',
-  assetPrefix: '/next-report-appp/',
+  basePath: '/Practice',
+  assetPrefix: '/Practice/',
 };
 
 export default nextConfig;
